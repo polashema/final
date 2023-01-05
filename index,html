@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate today</title>
+    <link rel="stylesheet" href="style/demo-file.css">
+    <script src="https://kit.fontawesome.com/a61de1ffaa.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fasthand&family=Nerko+One&family=Poppins:wght@500&family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-titel">
+            <h1 >Let’s Help Those Who <br> Are More In Need</h1>
+            <p>Lorem ipsum dolor sit amet, usu cu esse possit referrentur, at eam falli deterruisset. No duo populo animal noluisse, enim</p>
+            <button class="header-btn">Donate Now</button>
+        </div>
+    </header>
+    <!-- donate section start -->
+    <main>
+        <section class="Donate-Today">
+            <div class="Donate-Today-container">
+                <h1>Donate Today</h1>
+                <p>Lorem ipsum dolor sit amet, usu cu esse possit referrentur <br> at eam falli deterruisset. No duo populo animal noluisse, eni</p>
+                <div class="btn">
+                    <button class="btn1">100tk</button>
+                    <button class="btn2">200tk</button>
+                    <button class="btn1">500tk</button>
+                    <button class="btn1">1000tk</button>
+                    <button class="btn1">5000tk</button>
+                </div>
+                <p>Other Amount (Taka)</p>
+                <hr>
+                <button class="header-btn">Donate Now</button>
+             </div>
+    </section>
+    <!--  Donate section end --> 
+<!-- Donate plan section start -->
+<section class="Our-Donate-Plan">
+    <div class="Our-Donate-Plan-container">
+        <div class="donate">
+                <h1>Our-Donate-Plan</h1>
+                <p class="Donate-plan-item1-p">Lorem ipsum dolor sit amet, usu cu esse possit referrentur, at eam falli 
+                    deterruisset. No duo populo animal noluisse, enim</p>
+            </div>
+    <div class="Donate-plan-container">
+        <div class="Donate-plan-item1">
+            <i id="Donate-plan-item1-i" class="fa-solid fa-bowl-food"></i>
+        <h2 class="Donate-plan-item1-h2">Food for a family</h2>
+        <p class="Donate-plan-item1-p">Amet minim mollit non deserunt 
+            ullamco est sit aliqua dolor do amet 
+            sint. Velit officia consequat duis enim 
+            velit mollit.</p>
+        </div>
+        <div class="Donate-plan-item2">
+            <i id="Donate-plan-item1-i" class="fa-solid fa-people-group"></i>
+            <h2 class="Donate-plan-item1-h2">Shelter for a family</h2>
+            <p class="Donate-plan-item1-p"> Amet minim mollit non deserunt 
+                ullamco est sit aliqua dolor do amet 
+                sint. Velit officia consequat duis enim 
+                velit mollit.</p>
+        </div>
+        <div class="Donate-plan-item3">
+            <i id="Donate-plan-item1-i" class="fa-solid fa-book-open"></i>
+            <h2 class="Donate-plan-item1-h2">Education for a child</h2>
+            <p class="Donate-plan-item1-p">Amet minim mollit non deserunt 
+                ullamco est sit aliqua dolor do amet 
+                sint. Velit officia consequat duis enim 
+                velit mollit.</p>
+        </div>
+    </div>
+    </div>
+</section>
+<!--  Donate plan section end-->
+<!--  main section start -->
+<section class="container">
+    <div class="main-container">
+        <div class="container-info">
+            <div class="container-item">
+                <h2>Their lives depend on 
+                    your donation</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate et quia at reprehenderit, perferendis in impedit ab exercitationem fugit a cumque laudantium repudiandae dignissimos sit facilis animi eos hic facere?</p>
+                    <button class="header-btn"> How to Contribute ?</button>
+            </div>
+            <div class="container-image">
+                <img src="images/donation6.jpg" alt="">
+
+            </div>
+        </div>
+    </div>   
+</section>
+<!-- main section end -->
+<!-- container 2 start -->
+<section>
+    <div class="container-2">
+        <div class="main-container2">
+            <div class="image">
+                <img  src="images/donation0.jpg" alt="">
+            </div>
+            <div class="titel">
+                <h2>They need us to suvive</h2>
+                 <p>Lorem ipsum dolor sit amet, usu cu esse possit 
+                    referrentur, at eam falli deterruisset. No duo populo 
+                    animal noluisse, enim
+                    Lorem ipsum dolor sit amet, usu cu esse possit 
+                    referrentur, at eam falli deterruisset.</p>
+                    <button class="header-btn">How to Contribute?</button>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- container 2 end-->
+<!--container 3 start -->
+<section>
+    <div class="container-3">
+        <div class="container-3-titel">
+            <h2>Get My Updates</h2>
+            <p>Lorem ipsum dolor sit amet, usu cu esse possit referrentur, at eam falli 
+                deterruisset. No duo populo animal noluisse, enim</p>
+        </div>
+        <div class="container-3-form">
+            <input type="email" name="" id="" placeholder="Email"><button class="button">Subscribe</button>
+        </div>
+    </div>
+</section>
+</main>
+<!-- container 3 end-->
+<!--footer part start -->
+<footer>
+    <div class="footer-titel">
+        <h2>Be Humble</h2>
+        <p>I’m gonna do i</p>
+    </div>
+</footer>
+<!-- footer part end -->
+
+
+</body>
+</html>
